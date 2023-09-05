@@ -1,0 +1,142 @@
+{
+  "se_setup_request_count": 200,
+  "message_id": "MENSAJE2023",
+  "se_setup_requests": [
+    {
+      "record_number": "2",
+      "participant_se": "7163170335",
+      "submitter_id": "AMEXSUBMITTER1",
+      "se_detail_status_code": "R",
+      "se_status_code_change_date": "2023/09/04",
+      "language_preference_code": "ES",
+      "japan_credit_bureau_indicator": "",
+      "marketing_indicator": "Y",
+      "ownership_type_indicator": "D",
+      "seller_transacting_indicator": "Y",
+      "client_defined_code": "66278",
+      "seller": {
+        "seller_id": "SELLEREFEVOOPAY",
+        "seller_url": "efevoopay.com",
+        "seller_status": "02",
+        "seller_mcc": "5399",
+        "seller_legal_name": "EFEVOOPAY SA DE CV",
+        "seller_dba_name": "EFEVOOPAY",
+        "seller_business_registration_number": "RFC301235511",
+        "seller_business_phone_number": "8183638586",
+        "seller_email_address": "hola@efevoopay.com",
+        "seller_currency_code": "MXN",
+        "seller_start_date": "2023/01/04",
+        "seller_term_date": "2026/01/01",
+        "seller_charge_volume": "0000000000010000",
+        "seller_transaction_count": "1",
+        "seller_chargeback_count": "1",
+        "seller_chargeback_amount": "0000000000001000",
+        "seller_street_address": {
+          "address_line_1": "prog los soles 200"",
+          "address_line_2": "SELLERSTADDLN2001",
+          "address_line_3": "SELLERSTADDLN3001",
+          "address_line_4": "SELLERSTADDLN4001",
+          "address_line_5": "SELLERSTADDLN5001",
+          "city_name": "NUEVO LEON",
+          "region_code": "NLE",
+          "postal_code": "66278",
+          "country_code": "MX"
+        }
+      },
+      "significant_owners": {
+        "first_owner": {
+          "first_name": "EMBOCA",
+          "last_name": "FROST",
+          "date_of_birth": "1992/01/01",
+          "street_address": {
+            "address_line_1": "prog los soles 200",
+            "address_line_2": "FOSTADDLN2001",
+            "address_line_3": "FOSTADDLN3001",
+            "address_line_4": "FOSTADDLN4001",
+            "address_line_5": "FOSTADDLN5001",
+            "city_name": "NUEVO LEON",
+            "region_code": "NLE",
+            "postal_code": "66278",
+            "country_code": "MX"
+          }
+        },
+        "second_owner": {
+          "first_name": "SECONDOFIRSTNM001",
+          "last_name": "SECONDOLASTNM001",
+          "identification_number": "916204293",
+          "date_of_birth": "1984/01/20",
+          "street_address": {
+            "address_line_1": "3434 N 50th STREET",
+            "address_line_2": "SECONDOSTADDLN2001",
+            "address_line_3": "SECONDOSTADDLN3001",
+            "address_line_4": "SECONDOSTADDLN4001",
+            "address_line_5": "SECONDOSTADDLN5001",
+            "city_name": "NEW YORK",
+            "region_code": "NY",
+            "postal_code": "10103",
+            "country_code": "US"
+          }
+        },
+        "third_owner": {
+          "first_name": "THIRDOFIRSTNM001",
+          "last_name": "THIRDOLASTNM001",
+          "identification_number": "809077527",
+          "date_of_birth": "1984/01/20",
+          "street_address": {
+            "address_line_1": "4479 N 50th STREET",
+            "address_line_2": "THIRDOSTADDLN2001",
+            "address_line_3": "THIRDOSTADDLN3001",
+            "address_line_4": "THIRDOSTADDLN4001",
+            "address_line_5": "THIRDOSTADDLN5001",
+            "city_name": "NEW YORK",
+            "region_code": "NY",
+            "postal_code": "10103",
+            "country_code": "US"
+          }
+        },
+        "fourth_owner": {
+          "first_name": "FOURTHOFIRSTNM001",
+          "last_name": "FORUTHOLASTNM001",
+          "identification_number": "368591149",
+          "date_of_birth": "1984/01/20",
+          "street_address": {
+            "address_line_1": "9283 N 50th STREET",
+            "address_line_2": "FOURTHOSTADDLN2001",
+            "address_line_3": "FOURTHOSTADDLN3001",
+            "address_line_4": "FOURTHOSTADDLN4001",
+            "address_line_5": "FOURTHOSTADDLN5001",
+            "city_name": "NEW YORK",
+            "region_code": "NY",
+            "postal_code": "10103",
+            "country_code": "US"
+          }
+        }
+      },
+      "authorized_signer": {
+        "first_name": "EMBOCA",
+        "last_name": "AUSGNLASTNM001",
+        "identification_number": "672659926",
+        "date_of_birth": "1982/01/01",
+        "title": "CEO",
+        "street_address": {
+          "address_line_1": "6690 N 50th STREET",
+          "address_line_2": "AUTHSIGNSTREETADD2001",
+          "address_line_3": "AUTHSIGNSTREETADD3001",
+          "address_line_4": "AUTHSIGNSTREETADD4001",
+          "address_line_5": "AUTHSIGNSTREETADD5001",
+          "city_name": "NUEVO LEON",
+            "region_code": "NLE",
+            "postal_code": "66278",
+            "country_code": "MX"
+        }
+      },
+      "sale": {
+        "channel_indicator_code": "DS",
+        "channel_name": "DIRECT SALES",
+        "represent_id": "36500",
+        "iso_register_number": "0000036500"
+      }
+    }
+  ]
+}
+
