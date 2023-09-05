@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>llamada_amex</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="amexefevoo">
+      <HintPath>..\amexefevoo\bin\Debug\net6.0\amexefevoo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

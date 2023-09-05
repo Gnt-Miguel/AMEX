@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\llamada amex.exe
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\llamada amex.deps.json
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\llamada amex.runtimeconfig.json
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\llamada amex.dll
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\llamada amex.pdb
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\amexefevoo.dll
+C:\Users\admin\Desktop\Mike\llamada amex\bin\Debug\net6.0\amexefevoo.pdb
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.AssemblyInfo.cs
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.csproj.CopyComplete
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.dll
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\refint\llamada amex.dll
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.pdb
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\llamada amex.genruntimeconfig.cache
+C:\Users\admin\Desktop\Mike\llamada amex\obj\Debug\net6.0\ref\llamada amex.dll
